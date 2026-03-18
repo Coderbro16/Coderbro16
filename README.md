@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Coderbro16
-- 👀 I’m interested in ...NOTHING
-- 🌱 I’m currently learning ...NOTHING
-- 💞️ I’m looking to collaborate on ...SOMETHIMG
-- 📫 How to reach me ...DISCORD
+- 👀 I’m interested in Badminton, long distance running, reading and drawing
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me at insta (sportguy_25)
 
 <!---
 Coderbro16/Coderbro16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
